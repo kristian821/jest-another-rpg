@@ -1,4 +1,4 @@
-const { test, expect } = require('@jest/globals');
+
 const Enemy = require('../lib/Enemy');
 const Player = require('../lib/Player');
 const Potion = require('../lib/Potion');
